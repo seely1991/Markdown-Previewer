@@ -1,0 +1,15 @@
+#editor {
+	width: 48vw;
+	height: 95vh;
+	position: absolute;
+	resize: none;
+}
+
+#preview {
+	width: 40vw;
+	height: 95.9vh;
+	position: absolute;
+	right: 10px;
+	background-color: #EEEEEE;
+	padding: 0 4vw 0px 4vw;
+}
